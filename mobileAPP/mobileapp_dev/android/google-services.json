@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881612192535",
+    "project_id": "southern-field-398403",
+    "storage_bucket": "southern-field-398403.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881612192535:android:5e3b380b6e4243041a5552",
+        "android_client_info": {
+          "package_name": "com.ANPR.mobileApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIaPNdhdE3JghKwNuiYwZy8SHmyrtfGhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
